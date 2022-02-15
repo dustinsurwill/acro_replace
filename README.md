@@ -28,10 +28,12 @@ List of punctuation the program will trigger on:
     1. Find the generic icon that says `Text Replace`, it may be hidden in the expanded area (click the up arrow to show that area)
     2. Right click on the icon, then click `Open Config`
 5. In the file that opens, put the text you want to replace comma the text you want it to replace with. Separate the different replacements with a newline (enter key)
-    1. examples:
-        1. teh,the
-        2. adn,and
-        3. awnser,anwser
+    1. example:
+        ```
+        teh,the
+        adn,and
+        awnser,anwser
+        ```
     2. The word you want to replace cannot include any of the [punctuation specified above](#punctuation)
 6. Save and close the file
 7. In the notification tray (the place with the clock and battery icons in the bottom right corner)
