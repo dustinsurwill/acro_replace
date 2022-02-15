@@ -6,16 +6,16 @@ Python 3 utility to mimic the autocorrect (autoexpand) functions of WordPerfect.
 ## Punctuation
 List of punctuation the program will trigger on:
 - space
-- period ( . )
-- comma ( , )
-- question mark ( ? )
-- exclamation mark ( ! )
-- dash ( - )
-- underscore ( _ )
-- closing parenthesis ( ) )
-- colon ( : )
-- semicolon ( ; )
-- double quote ( " )
+- period `.`
+- comma `,`
+- question mark `?`
+- exclamation mark `!`
+- dash `-`
+- underscore `_`
+- closing parenthesis `)`
+- colon `:`
+- semicolon `;`
+- double quote `"`
 
 ## How to use
 
